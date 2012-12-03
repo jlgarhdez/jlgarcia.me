@@ -37,4 +37,4 @@ urlpatterns = patterns('blog.views',
 	url(r'^tag/(?P<tag>\w+)$', 'tagpage'),
 
 	url(r'^feed/$', BlogFeed()),
-) 
+)
