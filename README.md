@@ -8,6 +8,6 @@ perfectionists. I´m not a perfectionist, but it´s easy to use :) .
 It also uses [Bootstrap](http://twitter.github.com/bootstrap/#), a frontend 
 framework written by the [Twitter](http://twitter.com) staff.
 
-Hope you can learn somethin useful :)
+Hope you can learn something useful :)
 
 Enjoy!
