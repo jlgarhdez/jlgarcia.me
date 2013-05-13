@@ -1,6 +1,8 @@
 jlgarcia.me
 ===========
 
+Edit: NO LONGER MANAINED. For my new site, please visit [jlgarcia](https://github.com/jlgarcia/jlgarcia)
+
 This is the source code of my personal website [jlgarcia.me](http://jlgarcia.me)
 
 The site is built on [Django](www.djangoproject.com), a Python web framework for
